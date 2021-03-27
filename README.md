@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Jamie Cao.
 
-- 🔭 Areas of interest: data science, statistics, writing beautiful codes, political philosophy, economics, investing, LoL, Hearthstone, debating, eating, cooking and so much more
+- 🔭 Areas of interest: data science, statistics, coding, political philosophy, investing, LoL, Hearthstone, *Three Body Problem*, *Stories about Ming Dynasty*, *Game of Thrones*, *Rick and Morty*, *South Park*, *Friends*, debating, singing, eating, cooking and so much more
 - 🌱 I’m curious about EVERYTHING
+
