@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m curious about EVERYTHING
+🌱 I’m curious about EVERYTHING
