@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jamie Cao.
 
-- 🔭 My areas of interest: data science, deep learning, coding, philosophy, stand-up comedy, investing, League of Legends, Hearthstone, *Three Body Problem*, *Game of Thrones*, *Rick and Morty*, *South Park*, *Friends*, *Modern Family*, debating, singing, cooking, eating and so much more
+- 🔭 My areas of interest: data science, AI, coding, product management, stand-up comedy, debate, philosophy, _The Legend of Zelda_, _Outer Wild_, _League of Legends_, _The Three Body Problem_, _Rick and Morty_, _South Park_, _Friends_, _Modern Family_, teaching, singing, cooking, eating and so much more
 - 🌱 I’m curious about basically EVERYTHING
-- 🤠 See more about me in my [personal website](https://jamie-cao.github.io/) (WIP)
+- 🤠 See more about me in my [personal website](https://jamie-cao.github.io/)
