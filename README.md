@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Jamie Cao.
 
-- 🔭 My areas of interest: data science, AI, coding, product management, stand-up comedy, debate, philosophy, _The Legend of Zelda_, _Outer Wild_, _League of Legends_, _The Three-Body Problem_, _Rick and Morty_, _South Park_, _Friends_, _Modern Family_, teaching, singing, cooking, eating and so much more
-- 🌱 I’m curious about basically EVERYTHING
-- 🤠 See more about me in my [personal website](https://jamie-cao.github.io/)
+- 💡 With a strong background in data science, AI, and coding, I'm eager to contribute to innovative projects and make a positive impact
+- 🎯 Adept at managing and executing complex projects, with proven academic and extracurricular achievements
+- 🔭 Passionate about product management, technology, and continuous learning for personal growth
+- 🎨 Outside of work, you'll find me enjoying comedy, debate, philosophy, gaming, and various creative expressions
+<!-- - 🤠 See more about me in my [personal website](https://jamie-cao.github.io/) -->
