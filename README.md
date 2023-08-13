@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Jamie Cao.
 
-- 💡 With a strong background in AI and data science, I'm eager to contribute to innovative projects and make a positive impact
-- 🎯 Adept at managing and executing complex projects, with proven academic and extracurricular achievements
-- 🔭 Passionate about product management, technology, and continuous learning for personal growth
-- 🎨 Outside of work, you'll find me enjoying comedy, debate, philosophy, gaming, and various creative expressions
-- 🤠 See more about me in my [personal website](https://dwjamie.github.io/)
+- I am a highly self-driven learner who **enjoys reading and writing** through platforms such as newsletters, Substack, Medium, WeChat public accounts, and Zhubai. I focus on topics including tech, AI, LLM, independent development, data science, product design, and personal growth.
+- Outside of work, I am interested in **everything related to language**, such as stand-up comedy, podcasts, debates, and philosophy.
